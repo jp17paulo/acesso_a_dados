@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "aJ7cVGAoH9xoT2B54ZNsnzOQlpif3e3b98S3xphJheeHSOv2U/nLhbyiF6x3O+nlIiKPi64tU0YFaYdznpfg4A==",
+  "dgSpecHash": "sdj6++L2grxJWhtvFM5VQlDwxbxvkK5ivM6n2jfx2pNwX0DTvrf/o1oV6KKKJwY9DGfSCumKG8K2ClpkhpJaow==",
   "success": true,
   "projectFilePath": "D:\\Dropbox\\balta\\carreira_csharp\\Acesso_a_dados\\BaltaDataAccess\\BaltaDataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joaop\\.nuget\\packages\\azure.core\\1.6.0\\azure.core.1.6.0.nupkg.sha512",
     "C:\\Users\\joaop\\.nuget\\packages\\azure.identity\\1.3.0\\azure.identity.1.3.0.nupkg.sha512",
+    "C:\\Users\\joaop\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\joaop\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
     "C:\\Users\\joaop\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\joaop\\.nuget\\packages\\microsoft.data.sqlclient\\4.0.0\\microsoft.data.sqlclient.4.0.0.nupkg.sha512",
