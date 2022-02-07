@@ -46,3 +46,4 @@ D:\Dropbox\balta\carreira_csharp\Acesso_a_dados\BaltaDataAccess\obj\Debug\net5.0
 D:\Dropbox\balta\carreira_csharp\Acesso_a_dados\BaltaDataAccess\obj\Debug\net5.0\BaltaDataAccess.pdb
 D:\Dropbox\balta\carreira_csharp\Acesso_a_dados\BaltaDataAccess\obj\Debug\net5.0\BaltaDataAccess.genruntimeconfig.cache
 D:\Dropbox\balta\carreira_csharp\Acesso_a_dados\BaltaDataAccess\bin\Debug\net5.0\Dapper.dll
+D:\Dropbox\balta\carreira_csharp\Acesso_a_dados\BaltaDataAccess\obj\Debug\net5.0\BaltaDataAccess.csproj.CopyComplete
