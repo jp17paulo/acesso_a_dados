@@ -22,9 +22,9 @@ namespace BaltaDataAccess
                 // CreateManyCategory(connection);
                 // UpdateCategory(connection);
                 // DeleteCategory(connection);
-                // ListCategories(connection);
+                ListCategories(connection);
                 // GetCategory(connection);
-                ExecuteProcedure(connection);
+                // ExecuteProcedure(connection);
                 // ExecuteReadProcedure(connection);
                 // ExecuteScalar(connection);
                 // ReadView(connection);
@@ -194,6 +194,10 @@ namespace BaltaDataAccess
         {
             var procedure = "[spGetCoursesByCategory]";
             var pars = new { CategoryId = "09ce0b7b-cfca-497b-92c0-3290ad9d5142" };
+            /************Objeto tipado******************/
+            // var courses = connection.Query<Category>(
+               
+            /************Objeto dinamico****************/
             var courses = connection.Query(
                 procedure,
                 pars,
@@ -208,11 +212,11 @@ namespace BaltaDataAccess
         static void ExecuteScalar(SqlConnection connection)
         {
             var category = new Category();
-            category.Title = "Amazon AWS";
-            category.Url = "amazon";
-            category.Description = "Categoria destinada a serviços do AWS";
-            category.Order = 8;
-            category.Summary = "AWS Cloud";
+            category.Title = "Flutter";
+            category.Url = "flutter";
+            category.Description = "Categoria destinada a mobile";
+            category.Order = 2;
+            category.Summary = "Flutter";
             category.Featured = false;
 
             var insertSql = @"
