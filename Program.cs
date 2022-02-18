@@ -22,13 +22,13 @@ namespace BaltaDataAccess
                 // CreateManyCategory(connection);
                 // UpdateCategory(connection);
                 // DeleteCategory(connection);
-                ListCategories(connection);
+                // ListCategories(connection);
                 // GetCategory(connection);
                 // ExecuteProcedure(connection);
                 // ExecuteReadProcedure(connection);
                 // ExecuteScalar(connection);
                 // ReadView(connection);
-                // OneToOne(connection);
+                OneToOne(connection);
                 // OneToMany(connection);
                 // QueryMutiple(connection);
                 // SelectIn(connection);
